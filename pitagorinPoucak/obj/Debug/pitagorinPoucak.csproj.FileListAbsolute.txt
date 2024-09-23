@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\pitagorinPoucak\bin\Debug\pitagorinPoucak.exe.config
+C:\Users\Ucenik\source\repos\pitagorinPoucak\bin\Debug\pitagorinPoucak.exe
+C:\Users\Ucenik\source\repos\pitagorinPoucak\bin\Debug\pitagorinPoucak.pdb
+C:\Users\Ucenik\source\repos\pitagorinPoucak\obj\Debug\pitagorinPoucak.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\pitagorinPoucak\obj\Debug\pitagorinPoucak.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\pitagorinPoucak\obj\Debug\pitagorinPoucak.exe
+C:\Users\Ucenik\source\repos\pitagorinPoucak\obj\Debug\pitagorinPoucak.pdb
